@@ -7,3 +7,4 @@ int main()
     cout<<"Welcome to C++ Programming!";
     return 0;
 }
+//output Welcome to C++ Progarming!
